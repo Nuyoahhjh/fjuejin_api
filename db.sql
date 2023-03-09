@@ -4,9 +4,8 @@
  Source Server         : 文章数据
  Source Server Type    : MySQL
  Source Server Version : 80024
- Source Host           : 43.142.116.234:3306
- Source Schema         : my_db_01
-
+ Source Host           : ****
+ Source Schema         : ****
  Target Server Type    : MySQL
  Target Server Version : 80024
  File Encoding         : 65001
